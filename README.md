@@ -1,4 +1,4 @@
-# MoneyPrinter V2
+# MoneyPrinter V3
 
 > ♥︎ **Sponsor**: The Best AI Chat App: [shiori.ai](https://www.shiori.ai)
 
